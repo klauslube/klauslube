@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estudo na Trybe no curso de desenvolvimento web
-- 🌱 Estudando todas as linguagens e conteúdos para ser tornar um desenvolvedor Full Stack
+- 🌱 Estudando e aprendendo para ser tornar um desenvolvedor Full Stack
 
 <div> 
   <a href="https://github.com/klauslube">
