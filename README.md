@@ -3,6 +3,7 @@
 
 - 🔭 Hoje estudo na Trybe no curso de desenvolvimento web
 - 🌱 Estudando e aprendendo para ser tornar um desenvolvedor Full Stack
+<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klauslube/)
 <div> 
   <a href="https://github.com/klauslube">
