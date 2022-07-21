@@ -20,18 +20,3 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div><br/>
-
-## 
-<h3 align="left">Selected Projects</h3>
-<table>
-  
-  <tr>
-     <td valign="top">
-      <h3 align="left">Trybe Wallet</h3>
-      <p><a href="https://glittering-syrniki-ae0340.netlify.app">Project preview</a>, <a https://github.com/klauslube/TrybeWallet">Repository</a></p>
-       <p>React, Redux, Jest and RTL</p>
-      <a href="https://glittering-syrniki-ae0340.netlify.app"><img width=400px height=150px src="./imgs/trybeWallet.png" alt="Project-preview" /></a>
-    </td>
- 
-  </tr>
-</table>
