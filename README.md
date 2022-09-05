@@ -1,4 +1,5 @@
 ### Olá, eu sou o Klaus
+Atualmente estudo Desenvolvimento Web na Trybe, e com todo o conhecimento que venho aprendendo nos ultimos meses pretendo me tornar um desenvolvedor web fullstack. Sou uma pessoa bastante comprometida e algumas tecnologias aprendidas e projetos feitos são listados abaixos: 
 
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klauslube/)
  
