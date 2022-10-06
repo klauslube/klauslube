@@ -2,9 +2,9 @@
 Atualmente estudo Desenvolvimento Web na Trybe, e com todo o conhecimento que venho aprendendo nos ultimos meses pretendo me tornar um desenvolvedor web fullstack. Sou uma pessoa bastante comprometida e algumas tecnologias aprendidas e projetos feitos são listados abaixos: 
 
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klauslube/)
- 
-  <a href="https://github.com/klauslube">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klauslube&show_icons=true&count_private=true&theme=dark&include_all_commits=true&count_private=true"/>
+   
+   <a href="https://github.com/klauslube">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klauslube&show_icons=true&count_private=true&theme=dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klauslube&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
