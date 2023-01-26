@@ -5,6 +5,10 @@ Sou uma pessoa bastante comprometida, responsável e venho me desafiando no meu 
 
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klauslube/)
    
+   Atualmente estudando:
+      -Java
+      -Python
+      -AWS
    <a href="https://github.com/klauslube">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klauslube&show_icons=true&count_private=true&theme=dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klauslube&layout=compact&langs_count=16&theme=dark"/>
