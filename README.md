@@ -1,6 +1,6 @@
 ### Olá, eu sou o Klaus
 
-Venho da área da engenharia e já tive algumas experiências profissionais mas no ano de 2022 decidi fazer uma transição de carreira para área da tecnologia. Atualmente estudo Desenvolvimento Web na Trybe, venho aprendendo tudo o que é necessário para entrar no mercado e amando esse processo, a cada nova stack que aprendo percebo que estou no caminho certo.
+Venho da área da engenharia e já tive algumas experiências profissionais mas no ano de 2022 decidi procurar novos desafios e fazer uma transição de carreira para área da tecnologia. Venho aprendendo tudo o que é necessário para entrar no mercado e amando esse processo, a cada nova stack que aprendo percebo que estou no caminho certo. Atualmente estou em um bootcamp de ruby on rails pela a Raro Academy. 
 
 Sou uma pessoa bastante comprometida, responsável e venho me desafiando no meu aprendizado para um dia poder me tornar uma referencia tecnica na área. Algumas tecnologias aprendidas e projetos feitos são listados abaixos: 
 
@@ -8,7 +8,7 @@ Sou uma pessoa bastante comprometida, responsável e venho me desafiando no meu 
    
    Atualmente estudando:
       Java,
-      ,Python
+      ,Ruby on Rails
       ,AWS
       
    <a href="https://github.com/klauslube">
