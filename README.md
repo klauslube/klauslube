@@ -1,8 +1,20 @@
-### Olá, eu sou o Klaus
+# Bem-vindo ao meu perfil no GitHub!
 
-Venho da área da engenharia e já tive algumas experiências profissionais mas no ano de 2022 decidi procurar novos desafios e fazer uma transição de carreira para área da tecnologia. Venho aprendendo tudo o que é necessário para entrar no mercado e amando esse processo, a cada nova stack que aprendo percebo que estou no caminho certo. Atualmente estou em um bootcamp de ruby on rails pela a Raro Academy. 
+Olá, sou o Klaus, um profissional da área de engenharia que decidiu buscar novos desafios e fazer uma transição de carreira para o mundo da tecnologia no ano de 2022. Esse processo tem sido incrível e apaixonante. A cada nova stack que aprendo, sinto que estou no caminho certo para o crescimento profissional e pessoal.
 
-Sou uma pessoa bastante comprometida, responsável e venho me desafiando no meu aprendizado para um dia poder me tornar uma referencia tecnica na área. Algumas tecnologias aprendidas e projetos feitos são listados abaixos: 
+## Minha jornada até aqui
+
+Ao longo dos anos, acumulei experiências valiosas na área de engenharia, mas meu interesse sempre esteve na tecnologia e nas soluções inovadoras que ela oferece. Em busca dessa paixão, decidi embarcar em uma jornada de aprendizado intensiva, que me levou a participar de bootcamps e cursos diversos os quais venho aprendendo demais.
+
+## Compromisso e objetivos
+
+Sou uma pessoa altamente comprometida e responsável, tenho me desafiado constantemente para me tornar uma referência técnica na área de tecnologia. Meu objetivo é contribuir significativamente para o desenvolvimento de projetos inovadores e impactantes.
+
+## O que vem por aí
+
+Estou sempre em busca de novos desafios e oportunidades de aprendizado. Pretendo expandir meu conhecimento em outras tecnologias como Next.js, Vue e Java, além de me aprofundar em tópicos como DevOps e Ciência de Dados.
+
+Fique à vontade para explorar meus repositórios e projetos. Se você compartilha dos mesmos interesses ou gostaria de colaborar em algum projeto, ficarei feliz em receber sua mensagem!
 
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klauslube/)
    
