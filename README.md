@@ -1,3 +1,6 @@
+### PT-BR
+<details>
+
 # Bem-vindo ao meu perfil no GitHub!
 
 Olá, sou o Klaus, um profissional da área de engenharia que decidiu buscar novos desafios e fazer uma transição de carreira para o mundo da tecnologia no ano de 2022. Esse processo tem sido incrível e apaixonante. A cada nova stack que aprendo, sinto que estou no caminho certo para o crescimento profissional e pessoal.
@@ -16,6 +19,29 @@ Estou sempre em busca de novos desafios e oportunidades de aprendizado. Pretendo
 
 Fique à vontade para explorar meus repositórios e projetos. Se você compartilha dos mesmos interesses ou gostaria de colaborar em algum projeto, ficarei feliz em receber sua mensagem!
 
+</details>
+
+### EN
+
+<details>
+
+# Welcome to my GitHub profile!
+Olá, I'm Klaus, a professional from the engineering field who decided to seek new challenges and make a career transition to the world of technology in 2022. This journey has been incredible and thrilling. With each new stack I learn, I feel that I am on the right path for professional and personal growth.
+
+## My journey so far
+Over the years, I have accumulated valuable experiences in engineering, but my passion has always been in technology and the innovative solutions it offers. In pursuit of this passion, I embarked on an intensive learning journey, participating in various bootcamps and courses from which I have been learning a great deal.
+
+## Commitment and goals
+I am a highly committed and responsible individual, constantly challenging myself to become a technical reference in the field of technology. My goal is to make significant contributions to the development of innovative and impactful projects.
+
+## What's coming next
+I am always seeking new challenges and learning opportunities. My plans include expanding my knowledge in other technologies such as Next.js, Vue, and Java, as well as delving deeper into topics like DevOps and Data Science.
+
+Feel free to explore my repositories and projects. If you share similar interests or would like to collaborate on any project, I would be happy to receive your message!
+
+</details>
+
+
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klauslube/)
    
    Atualmente estudando:
@@ -27,7 +53,7 @@ Fique à vontade para explorar meus repositórios e projetos. Se você compartil
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klauslube&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
-## Tecnologias que aprendi nos meus estudos
+## Tecnologias que aprendi nos meus estudos/Stacks
 
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
