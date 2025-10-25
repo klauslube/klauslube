@@ -43,11 +43,7 @@ Feel free to explore my repositories and projects. If you share similar interest
 
 
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klauslube/)
-   
-   Atualmente estudando:
-      Ruby on Rails
-      ,AWS
-      
+
    <a href="https://github.com/klauslube">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klauslube&show_icons=true&count_private=true&theme=dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klauslube&layout=compact&langs_count=16&theme=dark"/>
